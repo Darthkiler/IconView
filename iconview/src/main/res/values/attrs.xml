@@ -2,8 +2,8 @@
 <resources>
 
     <declare-styleable name="IconView">
-        <attr name="default_color" />
-        <attr name="selected_color" />
+        <attr name="default_color" format="color"/>
+        <attr name="selected_color" format="color"/>
     </declare-styleable>
 
 </resources>

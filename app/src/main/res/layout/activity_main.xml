@@ -9,8 +9,8 @@
     <datacomprojects.com.iconview.IconView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:default_color="#f00"
-        app:selected_color="#0f0"
+        app:default_color="@color/colorPrimary"
+        app:selected_color="#f0f"
         android:onClick="click"
         android:src="@drawable/ic_launcher_background"
         app:layout_constraintBottom_toBottomOf="parent"
